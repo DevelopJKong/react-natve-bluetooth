@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-blue",
+    "slug": "react-native-blue",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-blue"
+}
